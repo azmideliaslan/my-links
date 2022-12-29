@@ -1,56 +1,46 @@
 {
-  "name": "Fatih Yavuz",
+  "name": "Azmi Deliaslam",
   "description": "Maker @links.dev & Software Engineer @Spotify",
-  "image_url": "https://raw.githubusercontent.com/fatih-yavuz/my-links/main/profile-picture.jpeg",
+  "image_url": "https://avatars.githubusercontent.com/u/86797144?v=4",
   "links": [
     {
       "title": "LinkedIn",
-      "url": "http://bit.ly/3GfuFF1",
+      "url": "http://bit.ly/3IaGjCw",
       "icon": "linkedin"
     },
     {
       "title": "GitHub",
-      "url": "http://bit.ly/3GfuTvR",
+      "url": "http://bit.ly/3WI8s84",
       "icon": "github"
     },
     {
       "title": "Twitter",
-      "url": "http://bit.ly/3YJe7wf",
+      "url": "http://bit.ly/3YY2nWE",
       "icon": "twitter"
     },
     {
       "title": "Buy me a coffee",
-      "url": "http://bit.ly/3G4193Q",
+      "url": "http://bit.ly/3FXiPOt",
       "icon": "mug"
     },
     {
       "title": "Instagram",
-      "url": "http://bit.ly/3WkjGQh",
+      "url": "http://bit.ly/3YW1U7t",
       "icon": "instagram"
     },
     {
       "title": "Medium",
-      "url": "http://bit.ly/3I1ZYnV",
+      "url": "http://bit.ly/3VwZUzN",
       "icon": "medium"
     },
     {
-      "title": "Youtube",
-      "url": "http://bit.ly/3Gek9h3",
-      "icon": "youtube"
-    },
-    {
-      "title": "Side Project",
-      "url": "http://bit.ly/3hNX2AK",
+      "title": "WeatherWise Mini Project",
+      "url": "http://bit.ly/3WSmWSu",
       "icon": "link"
     },
     {
-      "title": "LeetCode",
-      "url": "http://bit.ly/3hSebcj",
-      "icon": "click"
-    },
-    {
       "title": "Spotify",
-      "url": "http://bit.ly/3BZcxfT",
+      "url": "https://spoti.fi/3C7uyZG",
       "icon": "spotify"
     }
   ]
